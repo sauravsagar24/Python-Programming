@@ -4,4 +4,4 @@
 
 2. Python Sheet Solution :: This file contains the solution of above sheet.
 
-Note :: Open "Python Sheet Solution"  file on Jupyter Notebook.
+   Note :: Open "Python Sheet Solution"  file on Jupyter Notebook.
